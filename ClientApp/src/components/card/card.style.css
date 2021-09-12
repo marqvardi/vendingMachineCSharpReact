@@ -1,0 +1,21 @@
+.productCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.cardButton {
+  width: 50px;
+}
+
+.imageSize {
+  display: flex;
+  align-items: center;
+}
+
+img {
+  max-width: 100%;
+  max-height: 150px;
+  padding: 10px;
+}
